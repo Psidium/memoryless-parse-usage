@@ -11,7 +11,7 @@
     "byte-size": "^6.2.0",
     "kubernetes-client": "^8.3.5",
     "lodash": "^4.17.15",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "ts-node": "^8.4.1",
     "typescript": "^3.7.2"
   }
